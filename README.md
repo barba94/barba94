@@ -1,5 +1,5 @@
 # 💫 About Me:
-👷 I'm a Senior Developer @ GFT Italy<br>💻 Other than work projects, I'm currently working with my brother on private projects connected to Overwatch 2, Discord Bots, Twitch and Telegram<br>🌱 I'm currently learning Spring Oauth<br>❤️ My hobbies are videogaming, write "good" code 😏 and gym<br>🧔 Yes, i have a beard 
+👷 I'm a Senior Developer @ GFT Italy<br>💻 Other than work projects, I'm currently working with my brother on private projects connected to Overwatch 2, Discord Bots, Twitch and Telegram. I mostly use GitLab :/<br>🌱 I'm currently learning Spring Oauth<br>❤️ My hobbies are videogaming, write "good" code 😏 and gym<br>🧔 Yes, i have a beard 
 
 
 # 💻 Tech Stack:
